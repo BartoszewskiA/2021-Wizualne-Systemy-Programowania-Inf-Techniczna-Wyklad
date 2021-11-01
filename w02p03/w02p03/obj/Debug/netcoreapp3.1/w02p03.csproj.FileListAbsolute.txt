@@ -1,0 +1,15 @@
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\bin\Debug\netcoreapp3.1\w02p03.exe
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\bin\Debug\netcoreapp3.1\w02p03.deps.json
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\bin\Debug\netcoreapp3.1\w02p03.runtimeconfig.json
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\bin\Debug\netcoreapp3.1\w02p03.runtimeconfig.dev.json
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\bin\Debug\netcoreapp3.1\w02p03.dll
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\bin\Debug\netcoreapp3.1\w02p03.pdb
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.Form1.resources
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.dll
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.pdb
+D:\PROGRAMOWANIE\2021-22\WSP W\w02p03\w02p03\obj\Debug\netcoreapp3.1\w02p03.genruntimeconfig.cache

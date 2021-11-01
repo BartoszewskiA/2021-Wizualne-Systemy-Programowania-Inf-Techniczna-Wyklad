@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "w03p02_rgb_dotyk/1.0.0": {
+        "runtime": {
+          "w03p02_rgb_dotyk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w03p02_rgb_dotyk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

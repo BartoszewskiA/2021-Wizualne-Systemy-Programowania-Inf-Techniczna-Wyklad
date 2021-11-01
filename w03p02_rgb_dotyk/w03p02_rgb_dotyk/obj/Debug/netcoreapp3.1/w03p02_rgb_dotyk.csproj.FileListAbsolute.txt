@@ -1,0 +1,16 @@
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\bin\Debug\netcoreapp3.1\w03p02_rgb_dotyk.exe
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\bin\Debug\netcoreapp3.1\w03p02_rgb_dotyk.deps.json
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\bin\Debug\netcoreapp3.1\w03p02_rgb_dotyk.runtimeconfig.json
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\bin\Debug\netcoreapp3.1\w03p02_rgb_dotyk.runtimeconfig.dev.json
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\bin\Debug\netcoreapp3.1\w03p02_rgb_dotyk.dll
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\bin\Debug\netcoreapp3.1\w03p02_rgb_dotyk.pdb
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.csproj.AssemblyReference.cache
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.Form1.resources
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.csproj.GenerateResource.cache
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.AssemblyInfoInputs.cache
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.AssemblyInfo.cs
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.csproj.CoreCompileInputs.cache
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.dll
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.pdb
+D:\OneDrive\Pulpit\w03p02_rgb_dotyk\w03p02_rgb_dotyk\obj\Debug\netcoreapp3.1\w03p02_rgb_dotyk.genruntimeconfig.cache

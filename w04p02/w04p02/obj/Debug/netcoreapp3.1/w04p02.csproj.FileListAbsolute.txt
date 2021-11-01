@@ -1,0 +1,16 @@
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\bin\Debug\netcoreapp3.1\w04p02.exe
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\bin\Debug\netcoreapp3.1\w04p02.deps.json
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\bin\Debug\netcoreapp3.1\w04p02.runtimeconfig.json
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\bin\Debug\netcoreapp3.1\w04p02.runtimeconfig.dev.json
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\bin\Debug\netcoreapp3.1\w04p02.dll
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\bin\Debug\netcoreapp3.1\w04p02.pdb
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.Form1.resources
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.dll
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.pdb
+D:\PROGRAMOWANIE\2021-22\WSP IT W\w04p02\w04p02\obj\Debug\netcoreapp3.1\w04p02.genruntimeconfig.cache
