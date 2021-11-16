@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "w05p01-probnik_kolorow_wpf/1.0.0": {
+        "runtime": {
+          "w05p01-probnik_kolorow_wpf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w05p01-probnik_kolorow_wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

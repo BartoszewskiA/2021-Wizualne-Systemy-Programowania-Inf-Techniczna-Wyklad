@@ -1,0 +1,15 @@
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\bin\Debug\w05p01-wpf.exe.config
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\bin\Debug\w05p01-wpf.exe
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\bin\Debug\w05p01-wpf.pdb
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\MainWindow.g.cs
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\App.g.cs
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf_MarkupCompile.cache
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf_MarkupCompile.lref
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\MainWindow.baml
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf.g.resources
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01_wpf.Properties.Resources.resources
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf.exe
+D:\PROGRAMOWANIE\2021-22\2021-Wizualne-Systemy-Programowania-Inf-Techniczna-Wyklad\w05p01-wpf\w05p01-wpf\obj\Debug\w05p01-wpf.pdb
