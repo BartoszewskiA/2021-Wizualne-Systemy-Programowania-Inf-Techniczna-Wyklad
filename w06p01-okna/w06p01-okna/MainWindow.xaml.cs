@@ -56,5 +56,56 @@ namespace w06p01_okna
             else
                 tb_03.Text = "Cancel";
         }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Forms.FolderBrowserDialog folderBrowserDialog = 
+                    new System.Windows.Forms.FolderBrowserDialog();
+
+            if (folderBrowserDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+                tb_04.Text = folderBrowserDialog.SelectedPath;
+        }
+
+        private void Button_Click_4(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Forms.FontDialog fontDialog = new System.Windows.Forms.FontDialog(); 
+                if (fontDialog.ShowDialog()==System.Windows.Forms.DialogResult.OK)
+            {
+                tb_05.Text = fontDialog.Font.Name + " - " + tb_05.Text;
+                tb_05.FontSize = fontDialog.Font.Size;
+                tb_05.FontFamily = new FontFamily(fontDialog.Font.Name);
+                
+            }
+        }
+
+        private void Button_Click_5(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Forms.ColorDialog colorDialog = new System.Windows.Forms.ColorDialog();  
+            if (colorDialog.ShowDialog()==System.Windows.Forms.DialogResult.OK)
+            {
+                byte R = colorDialog.Color.R;
+                byte G = colorDialog.Color.G;
+                byte B = colorDialog.Color.B;
+                SolidColorBrush solidColorBrush = new SolidColorBrush(Color.FromRgb(R, G, B));
+                tb_06.Background = solidColorBrush;
+            }
+        }
+        public oknoSterujace? okno = null;
+        private void Button_Click_6(object sender, RoutedEventArgs e)
+        {
+            if (okno == null)
+            {
+                okno = new oknoSterujace(this);
+                okno.Title = "Suwak";
+                okno.Show();
+            }
+           
+        }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            if (okno != null)
+                okno.Close();
+        }
     }
 }
