@@ -27,9 +27,8 @@ namespace testMenuContext
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)
         {
-       
-            button01.Content = "1111"+ sender.ToString();
-            
+            // metod obsługi wybranej pozycji w menu       
         }
+
     }
 }

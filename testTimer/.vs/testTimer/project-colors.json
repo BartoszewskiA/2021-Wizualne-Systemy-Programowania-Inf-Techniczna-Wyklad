@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1c41e48-6e11-4769-9fd5-bae57856da2b": {
+      "ProjectGuid": "b1c41e48-6e11-4769-9fd5-bae57856da2b",
+      "DisplayName": "testTimer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
