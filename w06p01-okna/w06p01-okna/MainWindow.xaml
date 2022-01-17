@@ -1,0 +1,26 @@
+﻿<Window x:Class="w06p01_okna.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:w06p01_okna"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600" Closing="Window_Closing">
+    <StackPanel>
+        <TextBlock x:Name="tb_01"></TextBlock>
+        <Button Click="Button_Click">Okno otwierania pliku</Button>
+        <TextBlock x:Name="tb_02"></TextBlock>
+        
+        <Button Click="Button_Click_3" >Okno Wyboru folderu</Button>
+        <TextBlock x:Name="tb_04"></TextBlock>
+        <Button Click="Button_Click_1" >Okno zapisywania do pliku</Button>
+        <TextBlock x:Name="tb_03"></TextBlock>
+        <Button Click="Button_Click_4">Okno wyboru fontu</Button>
+        <TextBlock x:Name="tb_06"></TextBlock>
+        <Button Click="Button_Click_5" >Okno wyboru kolorów</Button>
+        <TextBlock x:Name="tb_05">To jest przykładowy tekst.</TextBlock>
+        <Button Click="Button_Click_2" >Własne okno dialogowe</Button>
+        <TextBlock x:Name="tb_07"></TextBlock>
+        <Button Click="Button_Click_6" >Własne okno niemodalne (pracujące równolegle)</Button>
+    </StackPanel>
+</Window>

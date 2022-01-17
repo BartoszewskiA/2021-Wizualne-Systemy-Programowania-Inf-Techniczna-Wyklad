@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "683f631b-b16e-4780-9883-a8b7ed32dbf2": {
+      "ProjectGuid": "683f631b-b16e-4780-9883-a8b7ed32dbf2",
+      "DisplayName": "testStatusBar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

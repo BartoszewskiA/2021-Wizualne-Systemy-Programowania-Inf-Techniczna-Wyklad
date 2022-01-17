@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b46d86b-403f-4d4a-a792-ebae9ed4b303": {
+      "ProjectGuid": "0b46d86b-403f-4d4a-a792-ebae9ed4b303",
+      "DisplayName": "testMenuContext",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

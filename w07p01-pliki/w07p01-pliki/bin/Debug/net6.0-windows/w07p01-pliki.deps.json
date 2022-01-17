@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "w07p01-pliki/1.0.0": {
+        "runtime": {
+          "w07p01-pliki.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w07p01-pliki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
